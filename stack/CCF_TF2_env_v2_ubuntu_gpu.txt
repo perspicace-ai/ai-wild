@@ -1,0 +1,4 @@
+tensorboard
+tensorflow-hub>=0.8.0
+tensorflow-gpu>=2.2.0
+tf-slim
